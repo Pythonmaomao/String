@@ -7,8 +7,8 @@ Created on Wed Jan 24 11:42:09 2018
 import numpy as np
 import matplotlib.pyplot as plt
 
-x = np.arange(0,4*np.pi,0.01)
-y = np.sin(x)
+a = np.arange(0,4*np.pi,0.01)
+b = np.sin(a)
 
-plt.plot(x,y)
+plt.plot(a,b)
 plt.show()
