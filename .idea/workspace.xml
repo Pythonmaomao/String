@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5da3cb44-fc9c-4a1f-a559-da805eb473a9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3-1heroes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3_1heroes.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3-1.py" afterPath="$PROJECT_DIR$/3-1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -418,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517317042573</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="pppppppppppppppppppppppppppp">
+      <created>1517317081537</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1517317081537</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
