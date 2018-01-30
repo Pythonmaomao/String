@@ -19,3 +19,8 @@ if userinput == 'd':
     print("you are here #*###")
 if userinput == 'a':
     print("you are here *####")
+#元组的方式设计地图
+map = ((0,0),(1,0),(2,0)
+,(0,1),(1,1),(2,1),
+(0,2),(1,2),(2,2))
+
